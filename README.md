@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A frontend & backend developer from Brazil</h3>
 
 - 📫 e-mail **theodorojoaogabriel@outlook.com**
 
